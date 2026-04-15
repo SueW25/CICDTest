@@ -6,3 +6,5 @@
 
 2026-02-13: Test after changing URL in BTP destination per Note 3695458
 2026-02-13: Test 02 after changing URL in BTP destination per Note 3695458
+
+2026-04-15: Test after using BTP destination with OAuth2Password Authentication
