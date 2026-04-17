@@ -8,7 +8,7 @@ modules:
   requires:
   - name: fioriapp_html_repo_runtime
   parameters:
-    disk-quota: 256M
+    disk-quota: 1G
     memory: 256M
 - name: fioriapp_ui_deployer
   type: com.sap.application.content
